@@ -2209,6 +2209,7 @@ h4, .h4 {
     margin-top: -10px; }
 
 h5, .h5 {
+  color: dodgerblue;
   font-size: 1.57em;
   line-height: 1.4em;
   margin-bottom: 15px; }
